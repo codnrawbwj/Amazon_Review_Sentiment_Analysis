@@ -14,13 +14,11 @@ https://github.com/codnrawbwj/NLP_Final_Project
 Team Members:
 
 Chae Uk Lim - 11017107
-
 Isabella Jaya Rani Chandrasekaran – 11504607
-
 Brian Gilmore – 11491082
 
 
- 
+
 Goals and Objectives:
 The goal of this project is to classify a user's review as either good or negative. The user's review would be the input, and the intended result would be the mood (positive/negative).
 
