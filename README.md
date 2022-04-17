@@ -13,9 +13,9 @@ https://github.com/codnrawbwj/NLP_Final_Project
 
 Team Members:
 
-Chae Uk Lim - 11017107
-Isabella Jaya Rani Chandrasekaran – 11504607
-Brian Gilmore – 11491082
+Chae Uk Lim - 11017107<br>
+Isabella Jaya Rani Chandrasekaran – 11504607<br>
+Brian Gilmore – 11491082<br>
 
 
 
